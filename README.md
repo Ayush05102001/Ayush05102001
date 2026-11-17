@@ -1,18 +1,22 @@
-## Hi there 👋
-<h2 align="center">Hi, I'm Ayush Bisht 👋</h2>
-<p align="center">Cloud Security Engineer · M.S. Cybersecurity @ Northeastern University</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/bisht-ayush/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bisht.ay@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-- 🛡️ ~3 years securing **1,200+ AWS accounts** at **HP**: IAM, SCPs, and Python security automation
-- 🎓 M.S. Cybersecurity at Northeastern (2028); former Grad TA for Cloud Computing
-- 👥 Secretary, [**AWS Student Builder Group @ Northeastern**](https://www.meetup.com/aws-sbg-at-northeastern-university-boston-campus/) (500+ members)
+# Hi, I'm Ayush Bisht 👋
+ 
+**Cloud Security Engineer · M.S. Cybersecurity @ Northeastern University**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisht-ayush/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bisht.ay@northeastern.edu)
+ 
+## About Me
+ 
+- 🛡️ ~3 years securing **1,200+ AWS accounts** at **HP** (IAM, SCPs, Python security automation)
+- 🎓 M.S. Cybersecurity at Northeastern (2028), former Grad TA for Cloud Computing
+- 👥 Secretary, [AWS Student Builder Group @ Northeastern](https://www.meetup.com/aws-sbg-at-northeastern-university-boston-campus/) (500+ members)
 - 🌱 Exploring post-quantum cryptography and threat detection
-### 🚀 Projects
-- [**Post-Quantum File Encryption**](https://github.com/Ayush05102001/REPO-NAME): multi-recipient encryption with ML-KEM-768 + ML-DSA-65 (Bash, OpenSSL 3.5)
-- [**Keyless IAM Cross-Account Access**](https://github.com/Ayush05102001/REPO-NAME): least-privilege access via STS AssumeRole, no long-term credentials
-### 🧰 Tech
+## 🚀 Projects
+ 
+- **[Post-Quantum File Encryption](https://github.com/Ayush05102001/REPO-NAME)**: multi-recipient encryption with ML-KEM-768 and ML-DSA-65 (Bash, OpenSSL 3.5)
+- **[Keyless IAM Cross-Account Access](https://github.com/Ayush05102001/REPO-NAME)**: least-privilege access via STS AssumeRole, no long-term credentials
+## 🧰 Tech Stack
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -22,20 +26,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
  
-### 📜 Certifications
-AWS Solutions Architect – Associate · AWS AI Practitioner · AWS Cloud Practitioner · GIAC GCLD · CompTIA Security+ (in progress)
+## 📜 Certifications
  
-<!--
-**Ayush05102001/Ayush05102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Certified Solutions Architect – Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- GIAC Cloud Security Essentials (GCLD)
+- CompTIA Security+ (in progress)
+ 
