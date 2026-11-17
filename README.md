@@ -11,7 +11,7 @@
 - 🎓 M.S. Cybersecurity at Northeastern (2028), former Grad TA for Cloud Computing
 - 👥 Secretary, [AWS Student Builder Group @ Northeastern](https://www.meetup.com/aws-sbg-at-northeastern-university-boston-campus/) (500+ members)
 
-## 🧰 Tech Stack
+## Tech Stack
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
