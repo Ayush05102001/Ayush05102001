@@ -17,4 +17,9 @@
  
 ## Certifications
  
-AWS Solutions Architect – Associate · AWS AI Practitioner · AWS Cloud Practitioner · GIAC GCLD · CompTIA Security+ (in progress)
+AWS Solutions Architect 
+– Associate 
+- AWS AI Practitioner
+- AWS Cloud Practitioner
+-  GIAC GCLD
+-  CompTIA Security+ (in progress)
